@@ -15,7 +15,7 @@
 
 - secreenshot for planet age calculator ui with functional app.
 
-<img src="screenshots/planet.png" width= 200> <img src="screenshots/planet1.png" width= 200> <img src="screenshots/planet2.png" width= 200> <img src="screenshots/planet3.png" width= 200>
+<img src="screenshots/planet.png" width= 200> <img src="screenshots/planet2.png" width= 200> <img src="screenshots/planet3.png" width= 200>
 
 - secreenshot for make rich calculator ui with functional app.
 
