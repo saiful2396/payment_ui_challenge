@@ -1,8 +1,9 @@
 import 'dart:math';
 import 'package:flutter/material.dart';
-import 'package:payment_ui_challenge/utility/colors.dart';
+import 'package:payment_ui_challenge/payment_ui_challenge/utility/colors.dart';
 
 class PaymentScreen extends StatefulWidget {
+  static const id = 'payment_screen';
   @override
   _PaymentScreenState createState() => _PaymentScreenState();
 }
